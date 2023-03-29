@@ -1,0 +1,17 @@
+@media (max-width: 425px) {
+    .conteudo {
+        width: 250px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .nick {
+        font-size: 14px;
+    }
+
+    .inputs {
+        font-size: 14px;
+    }
+}
